@@ -1,0 +1,8 @@
+[package]
+name = "quantum-resistant-vault"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "File vault using post-quantum key exchange (ML-KEM) and AES-GCM"
+
+[dependencies]
